@@ -8,7 +8,7 @@ var studente = {
 
 // Stampare a schermo attraverso un ciclo for-in tutte le proprietà dell'oggetto.
 for(indice in studente){
-    console.log(studente[indice].nome);
+    console.log(studente[indice]);
 
 }
 // Creare un array di oggetti di studenti.
